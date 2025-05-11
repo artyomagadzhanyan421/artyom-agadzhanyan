@@ -17,15 +17,15 @@ function Card() {
                 </div>
             </div>
             <div className="socials">
-                <a href="#">
+                <a href="https://www.linkedin.com/in/artyom-agadzhanyan-78a015352/" target="_blank">
                     <i className='bx bxl-linkedin-square'></i>
                     <span>LinkedIn</span>
                 </a>
-                <a href="#">
+                <a href="https://wa.link/4n6xl7" target="_blank">
                     <i className='bx bxl-whatsapp'></i>
                     <span>WhatsApp</span>
                 </a>
-                <a href="#">
+                <a href="https://t.me/artyomagadzhanyan" target="_blank">
                     <i className='bx bxl-telegram'></i>
                     <span>Telegram</span>
                 </a>
