@@ -14,7 +14,7 @@ function Process() {
                 <div className="phase">
                     <i className="bx bx-target-lock"></i>
                     <h3>Discovery & Analysis</h3>
-                    <span>I dive deep into your needs, exploring ideas and defining strategies for long-term success.</span>
+                    <span>I dive deep into your needs, exploring ideas and defining strategies for success.</span>
                 </div>
                 <div className="phase">
                     <i className="bx bxs-dashboard"></i>

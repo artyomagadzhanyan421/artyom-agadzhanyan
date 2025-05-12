@@ -1,0 +1,34 @@
+.project {
+    border: 1px solid rgba(255, 255, 255, .1);
+    background-color: rgba(255, 255, 255, .06);
+    padding: 30px;
+    border-radius: 15px;
+}
+
+.project img {
+    margin-bottom: 20px;
+    border-radius: 15px;
+    max-width: 100%;
+}
+
+.project h3 {
+    font-size: 21px;
+}
+
+.project span {
+    display: flex;
+    color: rgba(255, 255, 255, .7);
+    font-size: 16px;
+    margin-top: 10px;
+    line-height: 1.5em;
+}
+
+.links.project-link {
+    justify-content: initial;
+    margin-top: 20px;
+}
+
+.links.project-link span {
+    color: white;
+    margin-top: 0px;
+}
