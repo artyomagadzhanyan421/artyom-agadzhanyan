@@ -1,0 +1,53 @@
+.Process {
+    padding: 100px 0px;
+}
+
+.heading.section {
+    font-size: 50px;
+    margin: 20px 0px 12.5px 0px;
+}
+
+.process {
+    display: grid;
+    text-align: left;
+    grid-template-columns: repeat(3, 1fr);
+    width: 1200px;
+    margin-top: 50px;
+    gap: 10px;
+}
+
+.phase {
+    position: relative;
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, .1);
+    background-color: rgba(255, 255, 255, .06);
+    padding: 30px;
+    border-radius: 15px;
+}
+
+.phase::before {
+    background-color: #512feb80;
+    content: "";
+    position: absolute;
+    top: -11px;
+    right: -11px;
+    width: 100px;
+    height: 100px;
+    filter: blur(50px);
+}
+
+.phase i {
+    background-color: rgba(255, 255, 255, .2);
+    margin-bottom: 20px;
+    padding: 8px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.phase span {
+    display: flex;
+    color: rgba(255, 255, 255, .7);
+    font-size: 16px;
+    margin-top: 10px;
+    line-height: 1.5em;
+}
