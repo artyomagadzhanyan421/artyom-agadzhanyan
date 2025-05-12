@@ -7,11 +7,7 @@ function Process() {
                 <div className="sub-head">
                     <span style={{ color: 'rgba(255, 255, 255, .7)' }}>Process</span>
                 </div>
-            </center>
-            <center>
                 <p className="heading section">Your path to excellence</p>
-            </center>
-            <center>
                 <p className="pitch">A simple, effective approach to deliver excellence.</p>
             </center>
             <div className="process">

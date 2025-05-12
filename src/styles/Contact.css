@@ -1,0 +1,37 @@
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 12.5px;
+    margin: 50px auto 0px auto;
+    max-width: 650px;
+}
+
+form input,
+form textarea {
+    outline: none;
+    border: 1px solid rgba(255, 255, 255, .1);
+    background-color: rgba(255, 255, 255, .06);
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-size: 15px;
+    width: 100%;
+
+    &:focus {
+        border: 1px solid dodgerblue;
+    }
+}
+
+form input::placeholder,
+form textarea::placeholder {
+    color: grey;
+}
+
+form textarea {
+    resize: vertical;
+    height: 150px;
+}
+
+form .nav-link {
+    font-size: 15px;
+    width: 100%;
+}

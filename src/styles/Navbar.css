@@ -58,6 +58,9 @@ nav ul li a {
     display: flex;
     align-items: center;
     justify-content: center;
+    outline: none;
+    border: none;
+    cursor: pointer;
     width: fit-content;
     background-color: rgb(81, 47, 235);
     padding: 10px 15px;

@@ -8,8 +8,6 @@ function Hero() {
                     <img src="/artyom.jpg" alt="image" />
                     <span>Hi, my name is Artyom!</span>
                 </div>
-            </center>
-            <center>
                 <p className="heading">Transforming Workflows Into Interactive Websites</p>
                 <p className="pitch">I’m a front-end developer who specialized in building stylish, scalable web apps with React and TypeScript.</p>
                 <div className="links">

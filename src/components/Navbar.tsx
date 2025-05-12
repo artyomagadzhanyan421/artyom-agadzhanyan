@@ -13,8 +13,8 @@ function Navbar() {
                     <li><a href="#process">Process</a></li>
                     <li><a href="#">Showcase</a></li>
                     <li><a href="#plans">Plans</a></li>
+                    <li><a href="#contact">Contact</a></li>
                     <li><a href="#faqs">FAQs</a></li>
-                    <li><a href="#">Contact</a></li>
                 </ul>
                 <a href="#" className="nav-link">
                     <span>Get in touch</span>
