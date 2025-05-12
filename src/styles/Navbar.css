@@ -1,0 +1,63 @@
+.Navbar {
+    position: fixed;
+    width: 100%;
+    padding: 0px 40px;
+    left: 0%;
+}
+
+.avatar {
+    display: flex;
+    align-items: center;
+    gap: 12.5px;
+}
+
+.avatar img {
+    width: 30px;
+    border-radius: 50%;
+}
+
+.avatar span {
+    font-weight: 700;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    position: relative;
+    border: 1px solid rgba(255, 255, 255, .1);
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px);
+    padding: 12.5px;
+    border-radius: 8px;
+    max-width: 1200px;
+}
+
+nav ul {
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    gap: 12.5px;
+    font-size: 14.5px;
+}
+
+nav ul li a {
+    padding: 5px 8px;
+    border-radius: 5px;
+
+    &:hover {
+        background-color: rgba(255, 255, 255, .1);
+    }
+}
+
+.nav-link {
+    display: flex;
+    align-items: center;
+    background-color: rgb(81, 47, 235);
+    padding: 10px 15px;
+    border-radius: 8px;
+    gap: 12.5px;
+}
