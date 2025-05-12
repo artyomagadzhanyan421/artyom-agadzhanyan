@@ -12,7 +12,7 @@
     grid-template-columns: repeat(3, 1fr);
     width: 1200px;
     margin: 50px auto 0px auto;
-    gap: 10px;
+    gap: 25px;
 }
 
 .phase {

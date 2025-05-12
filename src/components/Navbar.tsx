@@ -12,7 +12,7 @@ function Navbar() {
                     <li><a href="#">Who I'am?</a></li>
                     <li><a href="#process">Process</a></li>
                     <li><a href="#">Showcase</a></li>
-                    <li><a href="#">Plans</a></li>
+                    <li><a href="#plans">Plans</a></li>
                     <li><a href="#">Faq</a></li>
                     <li><a href="#">Contact</a></li>
                 </ul>
