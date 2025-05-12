@@ -9,10 +9,11 @@ function Navbar() {
                     <span>Artyom A.</span>
                 </div>
                 <ul>
+                    <li><a href="#">Who I'am?</a></li>
                     <li><a href="#">Process</a></li>
                     <li><a href="#">Showcase</a></li>
                     {/* <li><a href="#">Skills</a></li> */}
-                    <li><a href="#">Services</a></li>
+                    <li><a href="#">Skills</a></li>
                     {/* <li><a href="#">Experience</a></li> */}
                     <li><a href="#">Plans</a></li>
                     <li><a href="#">Contact</a></li>
