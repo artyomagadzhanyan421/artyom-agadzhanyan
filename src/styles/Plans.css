@@ -1,0 +1,16 @@
+.plans {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 1200px;
+    margin: 50px auto 0px auto;
+    gap: 10px;
+}
+
+.plan {
+    position: relative;
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, .1);
+    background: linear-gradient(149deg, rgba(81, 47, 235, 0.15) 0%, rgba(255, 255, 255, 0.06) 29%, rgba(255, 255, 255, 0.06) 74%, rgba(81, 47, 235, 0.15) 100%);
+    padding: 30px;
+    border-radius: 15px;
+}
