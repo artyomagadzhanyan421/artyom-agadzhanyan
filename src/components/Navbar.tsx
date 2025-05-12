@@ -4,13 +4,13 @@ function Navbar() {
     return (
         <div className="Navbar">
             <nav>
-                <div className="avatar">
+                <a href="#" className="avatar">
                     <img src="/artyom.jpg" alt="image" />
                     <span>Artyom A.</span>
-                </div>
+                </a>
                 <ul>
                     <li><a href="#">Who I'am?</a></li>
-                    <li><a href="#">Process</a></li>
+                    <li><a href="#process">Process</a></li>
                     <li><a href="#">Showcase</a></li>
                     {/* <li><a href="#">Skills</a></li> */}
                     <li><a href="#">Skills</a></li>

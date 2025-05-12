@@ -2,7 +2,7 @@ import "../styles/Process.css";
 
 function Process() {
     return (
-        <div className='Process'>
+        <div className='Process' id="process">
             <center>
                 <div className="sub-head">
                     <span style={{ color: 'rgba(255, 255, 255, .7)' }}>Process</span>
