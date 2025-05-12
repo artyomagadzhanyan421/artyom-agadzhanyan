@@ -7,6 +7,7 @@ import Process from './components/Process';
 import Plans from './components/Plans';
 import Faqs from './components/Faqs';
 import Contact from './components/Contact';
+import Banner from './components/Banner';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Plans />
       <Contact />
       <Faqs />
+      <Banner />
     </div>
   )
 }
