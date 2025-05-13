@@ -35,6 +35,10 @@
     filter: blur(50px);
 }
 
+.phase h3 {
+    font-size: 21px;
+}
+
 .phase i {
     background-color: rgba(255, 255, 255, .2);
     margin-bottom: 20px;

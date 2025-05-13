@@ -8,6 +8,7 @@ import Plans from './components/Plans';
 import Faqs from './components/Faqs';
 import Contact from './components/Contact';
 import Banner from './components/Banner';
+import Showcase from './components/Showcase';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Navbar />
       <Hero />
       <Process />
+      <Showcase />
       <Plans />
       <Contact />
       <Faqs />
