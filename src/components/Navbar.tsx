@@ -9,7 +9,6 @@ function Navbar() {
                     <span>Artyom A.</span>
                 </a>
                 <ul>
-                    <li><a href="#about">Who I'am?</a></li>
                     <li><a href="#process">Process</a></li>
                     <li><a href="#showcase">Showcase</a></li>
                     <li><a href="#plans">Plans</a></li>
