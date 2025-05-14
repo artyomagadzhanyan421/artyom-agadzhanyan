@@ -10,6 +10,7 @@ import Contact from './components/Contact';
 import Banner from './components/Banner';
 import Showcase from './components/Showcase';
 import About from './components/About';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
       <Contact />
       <Faqs />
       <Banner />
+      <Footer />
     </div>
   )
 }
