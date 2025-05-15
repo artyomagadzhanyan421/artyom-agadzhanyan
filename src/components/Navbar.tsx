@@ -19,7 +19,7 @@ function Navbar() {
                     <li><a href="#plans" onClick={toggleFunc}>Plans</a></li>
                     <li><a href="#contact" onClick={toggleFunc}>Contact</a></li>
                     <li><a href="#faqs" onClick={toggleFunc}>FAQs</a></li>
-                    <li className='touch'><a href="#" onClick={toggleFunc}>Get in touch</a></li>
+                    <li className='touch'><a href="https://calendar.app.google/K3gVRUCWCoKaFfEe9" target="_blank" onClick={toggleFunc}>Get in touch</a></li>
                 </ul>
                 <a href="https://calendar.app.google/K3gVRUCWCoKaFfEe9" target="_blank" className="nav-link">
                     <span>Get in touch</span>
