@@ -30,7 +30,7 @@ function Footer() {
             <li>Other</li>
             <li><a href="/Artyom_Agadzhanyan.pdf" download>Resume</a></li>
             <li><a href="mailto:artyom.agadzhanyan421@gmail.com">Email</a></li>
-            <li><a href="#">Book a call</a></li>
+            <li><a href="https://calendar.app.google/K3gVRUCWCoKaFfEe9" target="_blank">Book a call</a></li>
           </ul>
         </div>
       </footer>

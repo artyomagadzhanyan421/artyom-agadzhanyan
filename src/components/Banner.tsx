@@ -10,7 +10,7 @@ function Banner() {
                 <p className="heading" style={{ maxWidth: 450 }}>Let’s talk about your next big move</p>
                 <p className="pitch" style={{ maxWidth: 300 }}>Hop on a call with us to see how our services can accelerate your growth.</p>
                 <div className="links">
-                    <a href="#" className="nav-link">
+                    <a href="https://calendar.app.google/K3gVRUCWCoKaFfEe9" target="_blank" className="nav-link">
                         <span>Schedule a quick call</span>
                         <i className='bx bx-link-external' style={{ fontSize: 16 }}></i>
                     </a>

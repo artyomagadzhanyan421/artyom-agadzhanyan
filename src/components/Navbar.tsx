@@ -21,7 +21,7 @@ function Navbar() {
                     <li><a href="#faqs" onClick={toggleFunc}>FAQs</a></li>
                     <li className='touch'><a href="#" onClick={toggleFunc}>Get in touch</a></li>
                 </ul>
-                <a href="#" className="nav-link">
+                <a href="https://calendar.app.google/K3gVRUCWCoKaFfEe9" target="_blank" className="nav-link">
                     <span>Get in touch</span>
                     <i className='bx bx-link-external' style={{ fontSize: 16 }}></i>
                 </a>

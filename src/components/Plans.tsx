@@ -16,32 +16,32 @@ function Plans() {
                         <i className='bx bx-trophy'></i>
                         <p>Basic</p>
                     </div>
-                    <p className="price">$480<span>/month</span></p>
-                    <p className="pitch-plan">Essential tools and features for starting your journey with ease.</p>
-                    <a href="#" className="nav-link plan-link">
+                    <p className="price">$100<span>/price</span></p>
+                    <p className="pitch-plan">Essential for individuals or local businesses needing a simple online presence.</p>
+                    <a href="https://calendar.app.google/K3gVRUCWCoKaFfEe9" target="_blank" className="nav-link plan-link">
                         <span>Go with this plan</span>
                         <i className='bx bx-link-external' style={{ fontSize: 16 }}></i>
                     </a>
                     <ul>
                         <li>
                             <i className='bx bx-check'></i>
-                            <span>Baisc workflow automation</span>
+                            <span>1 responsive landing page</span>
                         </li>
                         <li>
                             <i className='bx bx-check'></i>
-                            <span>Basic chatbot development</span>
+                            <span>Custom layout (React.js)</span>
                         </li>
                         <li>
                             <i className='bx bx-check'></i>
-                            <span>60 content request</span>
+                            <span>Mobile-friendly design</span>
                         </li>
                         <li>
                             <i className='bx bx-check'></i>
-                            <span>E-mail support</span>
+                            <span>3 round of revisions</span>
                         </li>
                         <li>
                             <i className='bx bx-check'></i>
-                            <span>1 consultation a month</span>
+                            <span>Delivery from 3–5 days</span>
                         </li>
                     </ul>
                 </div>
@@ -50,66 +50,66 @@ function Plans() {
                         <i className='bx bx-rocket'></i>
                         <p>Professional</p>
                     </div>
-                    <p className="price">$960<span>/month</span></p>
-                    <p className="pitch-plan">Advanced capabilities designed to meet growing business needs.</p>
-                    <a href="#" className="nav-link plan-link">
+                    <p className="price">$300<span>/price</span></p>
+                    <p className="pitch-plan">Best for businesses ready for a multi-page site to attract customers.</p>
+                    <a href="https://calendar.app.google/K3gVRUCWCoKaFfEe9" target="_blank" className="nav-link plan-link">
                         <span>Go with this plan</span>
                         <i className='bx bx-link-external' style={{ fontSize: 16 }}></i>
                     </a>
                     <ul>
                         <li>
                             <i className='bx bx-check'></i>
-                            <span>Advance workflow automation</span>
+                            <span>Up to 10 pages</span>
                         </li>
                         <li>
                             <i className='bx bx-check'></i>
-                            <span>Advance chatbot development</span>
+                            <span>Responsive and SEO-ready</span>
                         </li>
                         <li>
                             <i className='bx bx-check'></i>
-                            <span>150 content request</span>
+                            <span>React.js for modern UI</span>
                         </li>
                         <li>
                             <i className='bx bx-check'></i>
-                            <span>E-mail support</span>
+                            <span>4 rounds of revisions</span>
                         </li>
                         <li>
                             <i className='bx bx-check'></i>
-                            <span>2 consultation a month</span>
+                            <span>Delivery from 5–7 days</span>
                         </li>
                     </ul>
                 </div>
                 <div className="plan">
                     <div className="plan-type">
-                        <i className='bx bx-trophy'></i>
+                        <i className='bx bx-diamond'></i>
                         <p>Enterprises</p>
                     </div>
-                    <p className="price">Custom</p>
-                    <p className="pitch-plan">Comprehensive solutions tailored for large-scale business success.</p>
-                    <a href="#" className="nav-link plan-link">
+                    <p className="price">$600<span>/price</span></p>
+                    <p className="pitch-plan">Suitbale for businesses wanting a custom, scalable website with backend.</p>
+                    <a href="https://calendar.app.google/K3gVRUCWCoKaFfEe9" target="_blank" className="nav-link plan-link">
                         <span>Go with this plan</span>
                         <i className='bx bx-link-external' style={{ fontSize: 16 }}></i>
                     </a>
                     <ul>
                         <li>
                             <i className='bx bx-check'></i>
-                            <span>Custom workflow automation</span>
+                            <span>Up to 20 pages</span>
                         </li>
                         <li>
                             <i className='bx bx-check'></i>
-                            <span>Custom chatbot development</span>
+                            <span>React.js + backend or CMS</span>
                         </li>
                         <li>
                             <i className='bx bx-check'></i>
-                            <span>Unlimited content request</span>
+                            <span>SEO optimization + fast load</span>
                         </li>
                         <li>
                             <i className='bx bx-check'></i>
-                            <span>24hr priority support</span>
+                            <span>5 rounds of revisions</span>
                         </li>
                         <li>
                             <i className='bx bx-check'></i>
-                            <span>Unlimited consultation a month</span>
+                            <span>Delivery from 7–10 days</span>
                         </li>
                     </ul>
                 </div>

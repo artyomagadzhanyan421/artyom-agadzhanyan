@@ -4,7 +4,7 @@ import "../styles/Faqs.css";
 const faqsData = [
     {
         question: "What is your typical project timeline?",
-        answer: "The timeline for a project typically ranges from 4 to 8 weeks, depending on the scope and complexity. After an initial consultation, I’ll provide a detailed timeline with key milestones so you know what to expect at each stage.",
+        answer: "The timeline for a project typically ranges from 4 to 8 days, depending on the scope and complexity. After an initial consultation, I’ll provide a detailed timeline with key milestones so you know what to expect at each stage.",
     },
     {
         question: "Do you offer ongoing maintenance and support?",
