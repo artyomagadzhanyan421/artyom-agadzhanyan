@@ -5,7 +5,8 @@ footer {
     max-width: 1200px;
     padding: 80px 0px;
     border-top: 1px solid rgba(255, 255, 255, .1);
-    border-bottom: 1px solid rgba(255, 255, 255, .1);;
+    border-bottom: 1px solid rgba(255, 255, 255, .1);
+    ;
 }
 
 .footer-span {
@@ -52,4 +53,20 @@ footer {
 .footer-div {
     display: flex;
     gap: 100px;
+}
+
+@media(max-width: 700px) {
+
+    footer,
+    .footer-div {
+        flex-direction: column;
+    }
+
+    footer {
+        gap: 70px;
+    }
+
+    .footer-div {
+        gap: 40px;
+    }
 }

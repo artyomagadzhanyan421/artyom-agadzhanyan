@@ -54,3 +54,29 @@
     margin-top: 10px;
     line-height: 1.5em;
 }
+
+@media(max-width: 1050px) {
+    .process {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media(max-width: 950px) {
+
+    .heading.section {
+        font-size: 45px;
+    }
+}
+
+@media(max-width: 700px) {
+    .process {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media(max-width: 500px) {
+
+    .heading.section {
+        font-size: 40px;
+    }
+}

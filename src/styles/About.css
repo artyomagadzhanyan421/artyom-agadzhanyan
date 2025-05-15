@@ -2,3 +2,15 @@
     font-size: 45px;
     margin: 20px 0px 0px 0px;
 }
+
+@media(max-width: 950px) {
+    #about-section {
+        font-size: 40px;
+    }
+}
+
+@media(max-width: 500px) {
+    #about-section {
+        font-size: 35px;
+    }
+}

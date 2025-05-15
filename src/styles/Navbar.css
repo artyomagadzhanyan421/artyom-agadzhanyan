@@ -67,3 +67,11 @@ nav ul li a {
     border-radius: 8px;
     gap: 12.5px;
 }
+
+@media(max-width: 950px) {
+
+    nav ul,
+    nav .nav-link {
+        display: none;
+    }
+}

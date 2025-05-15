@@ -64,3 +64,15 @@
 .stack i {
     color: rgba(255, 255, 255, .9);
 }
+
+@media(max-width: 950px) {
+    .heading {
+        font-size: 45px;
+    }
+}
+
+@media(max-width: 950px) {
+    .heading {
+        font-size: 40px;
+    }
+}
