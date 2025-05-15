@@ -19,7 +19,7 @@ function Contact() {
             form.current,
             'ZSiixRao-LhNSGWc8'
         ).then(
-            (result) => {
+            () => {
                 alert("Message sent successfully!");
                 form.current?.reset();
                 setIsLoading(false);
