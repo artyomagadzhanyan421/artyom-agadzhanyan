@@ -11,8 +11,8 @@ function Hero() {
                 <p className="heading">Transforming Workflows Into Interactive Websites</p>
                 <p className="pitch">I’m a front-end developer who specialized in building stylish, scalable web apps with React and TypeScript.</p>
                 <div className="links">
-                    <a href="#showcase" className="nav-link">
-                        <span>My Showcase</span>
+                    <a href="/Artyom_Agadzhanyan.pdf" download className="nav-link">
+                        <span>My Resume</span>
                         <i className='bx bx-link-external' style={{ fontSize: 16 }}></i>
                     </a>
                     <a href="#plans" className="nav-link">
